@@ -1,7 +1,8 @@
 # Unix
 
 **Unix supports the following:**
-**Unified Naming Conventions: [UNC](https://github.com/unified-naming-convention/NamingStandard/tree/main/api)**
+
+**Unified Naming Convention: [UNC](https://github.com/unified-naming-convention/NamingStandard/tree/main/api)**\n
 **Secured Unified Naming Convention: [SUNC](https://docs.sunc.su/)**
 
 Community: [DISCORD](https://discord.gg/wwKWF5xD9V)
