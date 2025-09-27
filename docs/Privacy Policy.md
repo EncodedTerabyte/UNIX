@@ -49,7 +49,9 @@ You have the right to:
 ## Contact Information
 
 For privacy-related questions, contact us at:
-Email: privacy@getunix.vercel.app (down)
+<br>
+Email: privacy@getunix.vercel.app
+<br>
 Address: https://discord.gg/wwKWF5xD9V
 
 ## Changes to This Policy
