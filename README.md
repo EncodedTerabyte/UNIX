@@ -8,7 +8,7 @@
 
 **Community: [DISCORD](https://discord.gg/wwKWF5xD9V)**
 <br>
-**Website: https://getunix.site**
+**Website: https://getunix.vercel.app**
 
 ## Unix
 ### An advanced kernel-mode script executor with robust anti-detection, lightning-fast performance and 75% UNC compatibility.
