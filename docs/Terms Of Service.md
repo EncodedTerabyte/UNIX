@@ -67,8 +67,4 @@ For questions about these Terms, contact us at:
 <br>
 Email: legal@getunix.vercel.app
 <br>
-Address: [Your Address]
-
----
-
-*This is a template for educational purposes only. Consult with legal professionals for actual terms of service implementation.*
+Address: https://discord.gg/wwKWF5xD9V
