@@ -1,6 +1,7 @@
 # Privacy Policy - Unix
 
 **Effective Date:** 27/09/2025
+<br>
 **Last Updated:** 27/09/2025
 
 ## Introduction
